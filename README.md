@@ -26,7 +26,7 @@ This project enhanced my ability to design optimisation algorithms, analyse perf
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
 
-Steps followed for this project in detail:
+# Steps followed for this project in detail:
 
 This program asks the user to input a string, and then the robot will choose a keyboard and plan its own actions to type the string using the selected keyboard. 
 
