@@ -42,8 +42,8 @@ p - press the key
 
 After pressing a key, the robot stays on that key. This means:
 
--it can immediately press the same key again
--to go to another key, the robot will start from the last key it moved to.
+- it can immediately press the same key again
+- to go to another key, the robot will start from the last key it moved to.
 
 Furthermore, the robot will always move horizontally (left/right) before moving vertically (up/down) when moving to a key it needs to press.
 
