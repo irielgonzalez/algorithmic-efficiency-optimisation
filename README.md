@@ -5,22 +5,21 @@ Keyboard path optimisation algorithm.
 Algorithmic Efficiency Optimisation System
 
 
-Overview
+## Overview
 
 This project develops an algorithmic solution to determine the minimum sequence of operations required to type a given string across multiple keyboard configurations.
 The program evaluates alternative input strategies and dynamically selects the most efficient path to minimise total operations.
-
 
 Comparative evaluation of multiple keyboard layouts
 -Decision-making logic to optimise operation count
 -Algorithmic minimisation of user actions
 -Performance-focused structured implementation
 
+## Optimisation Approach
 
-Programming Language Used: Python
+The solution evaluates alternative keyboard configurations by computing operation cost functions and selecting the minimum-cost path. The implementation emphasises efficiency, structured evaluation, and modular decision logic.
 
-
-Learning Outcomes
+## Learning Outcomes
 
 This project enhanced my ability to design optimisation algorithms, analyse performance trade-offs, and implement structured decision-making logic.
 
